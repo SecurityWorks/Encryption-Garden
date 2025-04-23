@@ -1,4 +1,7 @@
-V- 0001
+V- 0001 this repo is prolly the best one of its kind. I spent hours that turned into days having ai make all the apps here. Zero restrictions - put the repo up on your site and tell people you made it-- i could care less. I make all of this free and no restrictions in the effort to promote Rust lang for making crypto apps. Kind of like batman, but im just driven by trying get people to stop coding in golang lol. 
+
+
+
 # Razor‑simple Rust encryption apps designed for ease of AI‑driven auditing, updating, and customization.
 
 
