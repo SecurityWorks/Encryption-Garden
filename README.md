@@ -65,6 +65,10 @@ Zig gives you manual memory control and a simple build system, but it lacks a bo
 # Why on earth is there is not a single rust stream chunking aes lib that is not in hazmat status? What the hell is going on here? 
 
 
+![Screenshot 2025-04-24 131149](https://github.com/user-attachments/assets/3a8d27c7-32c1-43f3-b248-dc87962f6020)
+
+
+
 Well, the gap is closing FAST!! You have to be patient. It is a actually a GOOD thing that rust is paranoid and they do not take crates out of hazmat status too soon. Hazmat status rust is WAY safer for production than hazmat status golang for example. It will take a bit of time for higher level crypto abstractions to hit...but when they do- Rust crypto operations will be the undisputed king- and other langs crypto operations will be silly by comparison- and that is objective truth !! Make ZERO mistake... new langs, in order to be superior to rust- will require a stricter compiler ! It is a GOOD thing when the compiler rejects your rust code 20 or more times in a row. It is what you NEED to make a superior and more bulletproof executable ! 
 
 # Rust Cryptography Ecosystem Overview
