@@ -65,7 +65,7 @@ Zig gives you manual memory control and a simple build system, but it lacks a bo
 
 
 
-![Screenshot 2025-04-24 131149](https://github.com/user-attachments/assets/3a8d27c7-32c1-43f3-b248-dc87962f6020)
+
 
 
 
