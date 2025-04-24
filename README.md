@@ -53,6 +53,17 @@ Zig gives you manual memory control and a simple build system, but it lacks a bo
 
 
 
+
+
+
+
+
+![b](https://github.com/user-attachments/assets/baf7ff2c-acc4-46d5-82a5-f54d307d6f52)
+
+
+
+
+
 # But how come there are crypto apps in golang that can not be instantly converted to rust by ai??
 
 Well, the gap is closing FAST!! 
