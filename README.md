@@ -69,7 +69,7 @@ Zig gives you manual memory control and a simple build system, but it lacks a bo
 
 
 
-Well, the gap is closing FAST!! You have to be patient. It is a actually a GOOD thing that rust is paranoid and they do not take crates out of hazmat status too soon. Hazmat status rust is WAY safer for production than hazmat status golang for example. It will take a bit of time for higher level crypto abstractions to hit...but when they do- Rust crypto operations will be the undisputed king- and other langs crypto operations will be silly by comparison- and that is objective truth !! Make ZERO mistake... new langs, in order to be superior to rust- will require a stricter compiler ! It is a GOOD thing when the compiler rejects your rust code 20 or more times in a row. It is what you NEED to make a superior and more bulletproof executable ! 
+Well, the gap is closing FAST!! You have to be patient. It is a actually a GOOD thing that rust is paranoid and they do not take crates out of hazmat status too soon. Hazmat status crates are WAY safer for production than hazmat status golang for example. It will take a bit of time for higher level crypto abstractions to hit...but when they do- Rust crypto operations will be the undisputed king- and other langs crypto operations will be silly by comparison- and that is objective truth !! Make ZERO mistake... new langs, in order to be superior to rust- will require a stricter compiler ! It is a GOOD thing when the compiler rejects your rust code 20 or more times in a row. It is what you NEED to make a superior and more bulletproof executable ! 
 
 # Rust Cryptography Ecosystem Overview
 
