@@ -62,9 +62,10 @@ Zig gives you manual memory control and a simple build system, but it lacks a bo
 
 
 
-# But how come there are crypto apps in golang that can not be instantly converted to rust by ai??
+# But how come there are crypto apps in golang that can not be instantly converted to rust by ai?? And why on earth is there is not a single rust stream chunking aes lib that is not in hazmat status? What the hell is going on here? 
 
-Well, the gap is closing FAST!! 
+
+Well, the gap is closing FAST!! You have to be patient. It is a actually a GOOD thing that rust is paranoid and they do not take crates out of hazmat status too soon. Hazmat status rust is WAY safer for production than hazmat status golang for example. It will take a bit of time for higher level crypto abstractions to hit...but when they do- Rust crypto operations will be the undisputed king- and other langs crypto operations will be silly by comparison- and that is objective truth !! 
 
 # Rust Cryptography Ecosystem Overview
 
